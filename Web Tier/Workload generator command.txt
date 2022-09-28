@@ -1,0 +1,2 @@
+python workload-generator-byProf.py --num_request 100 --url "http://34.201.77.151:5000/" --image_folder "imagenet-100/"
+
